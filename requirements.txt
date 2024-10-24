@@ -1,0 +1,4 @@
+pymupdf==1.22.5  # For handling PDFs (PyMuPDF)
+pandas==2.1.1  # For handling data frames and schedules
+streamlit==1.26.0  # For building the web app
+python-dateutil==2.8.2  # For handling date input in pandas
