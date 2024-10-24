@@ -1,0 +1,30 @@
+Date,Day,Lecture No,Topic
+01-07-2024,Monday,1,Introduction
+03-07-2024,Wednesday,2,"Introduction to computer network, LAN, MAN, WAN, PAN, Ad-hoc Networks, Network Architectures-"
+08-07-2024,Monday,3,"Client-Server, Peer To Peer, Network Topologies- Bus, ring, tree, star, mesh, hybrid. Communication Models-"
+10-07-2024,Wednesday,4,"OSI Model, TCP/IP Model, Design issues for layers.                                                                            (3 Hours)"
+15-07-2024,Monday,5,Physical Layer
+17-07-2024,Wednesday,6,"Transmission media- Guided media, unguided media. Transmission Modes- Simplex, Half-Duplex and"
+22-07-2024,Monday,7,"Full-Duplex. Network Devices- Hub, Repeater, Bridge, Switch, Router, Gateways and brouter. Spread spectrum"
+24-07-2024,Wednesday,8,"signal, FHSS, DSSS.                                                                                                                              (3 Hours)"
+29-07-2024,Monday,9,Data Link Layer
+31-07-2024,Wednesday,10,"Logical Link Layer- Services to Network Layer, Framing, Error Control and Flow Control. Framing in"
+05-08-2024,Monday,11,"LLC- framing challenges, types of framing. Error Control in LLC- error detection, error correction, Parity Bits,"
+07-08-2024,Wednesday,12,"Hamming Codes (11/12-bits) and CRC. Flow Control Protocols- Unrestricted Simplex, Stop and Wait,"
+12-08-2024,Monday,13,Sliding Window Protocol. WAN Connectivity- PPP and HDLC                                                      .(5 Hours)
+14-08-2024,Wednesday,14,Medium Access Control
+19-08-2024,Monday,15,"Channel Allocation-Static and Dynamic, Multiple Access Protocols- Pure and Slotted ALOHA, CSMA,"
+21-08-2024,Wednesday,16,"CSMA/CD, WDMA, IEEE 802.3 Standards and Frame Formats.                                                       (4 Hours)"
+26-08-2024,Monday,17,66
+28-08-2024,Wednesday,18,Network Layer
+02-09-2024,Monday,19,"Switching techniques, IP Protocol, IPv4 and IPv6 addressing schemes, Subnetting, NAT, CIDR, ICMP,"
+04-09-2024,Wednesday,20,"Routing Protocols- Distance Vector, Link State, Routing in Internet- RIP, OSPF, BGP, Congestion control and"
+09-09-2024,Monday,21,QoS.                                                                                                                                                       (6 Hours)
+11-09-2024,Wednesday,22,Transport Layer
+16-09-2024,Monday,23,"Services, Socket programming, Addressing, Connection establishment, Connection release, Flow control and"
+18-09-2024,Wednesday,24,"buffering, Multiplexing, TCP and UDP, TCP Timer management, Quality of Service (QoS), Differentiated"
+23-09-2024,Monday,25,"services, TCP and UDP for Wireless.                                                                                                   (4 Hours)"
+25-09-2024,Wednesday,26,Application Layer
+30-09-2024,Monday,27,"Domain Name System (DNS), Hyper Text Transfer Protocol (HTTP), Email: SMTP, MIME, POP3, Webmail,"
+02-10-2024,Wednesday,28,"FTP, TELNET, Dynamic Host Control Protocol (DHCP), Simple Network Management Protocol (SNMP)."
+07-10-2024,Monday,29,(3 Hours)

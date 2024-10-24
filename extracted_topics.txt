@@ -1,0 +1,29 @@
+Introduction
+Introduction to computer network, LAN, MAN, WAN, PAN, Ad-hoc Networks, Network Architectures-
+Client-Server, Peer To Peer, Network Topologies- Bus, ring, tree, star, mesh, hybrid. Communication Models-
+OSI Model, TCP/IP Model, Design issues for layers.                                                                            (3 Hours)
+Physical Layer
+Transmission media- Guided media, unguided media. Transmission Modes- Simplex, Half-Duplex and
+Full-Duplex. Network Devices- Hub, Repeater, Bridge, Switch, Router, Gateways and brouter. Spread spectrum
+signal, FHSS, DSSS.                                                                                                                              (3 Hours)
+Data Link Layer
+Logical Link Layer- Services to Network Layer, Framing, Error Control and Flow Control. Framing in
+LLC- framing challenges, types of framing. Error Control in LLC- error detection, error correction, Parity Bits,
+Hamming Codes (11/12-bits) and CRC. Flow Control Protocols- Unrestricted Simplex, Stop and Wait,
+Sliding Window Protocol. WAN Connectivity- PPP and HDLC                                                      .(5 Hours)
+Medium Access Control
+Channel Allocation-Static and Dynamic, Multiple Access Protocols- Pure and Slotted ALOHA, CSMA,
+CSMA/CD, WDMA, IEEE 802.3 Standards and Frame Formats.                                                       (4 Hours)
+66
+Network Layer
+Switching techniques, IP Protocol, IPv4 and IPv6 addressing schemes, Subnetting, NAT, CIDR, ICMP,
+Routing Protocols- Distance Vector, Link State, Routing in Internet- RIP, OSPF, BGP, Congestion control and
+QoS.                                                                                                                                                       (6 Hours)
+Transport Layer
+Services, Socket programming, Addressing, Connection establishment, Connection release, Flow control and
+buffering, Multiplexing, TCP and UDP, TCP Timer management, Quality of Service (QoS), Differentiated
+services, TCP and UDP for Wireless.                                                                                                   (4 Hours)
+Application Layer
+Domain Name System (DNS), Hyper Text Transfer Protocol (HTTP), Email: SMTP, MIME, POP3, Webmail,
+FTP, TELNET, Dynamic Host Control Protocol (DHCP), Simple Network Management Protocol (SNMP).
+(3 Hours)

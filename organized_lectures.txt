@@ -1,0 +1,143 @@
+Lecture 1 (Introduction):
+  - Introduction to computer network
+  - LAN
+  - MAN
+
+Lecture 2 (Introduction):
+  - WAN
+  - PAN
+  - Ad-hoc Networks
+
+Lecture 3 (Introduction):
+  - Network Architectures-
+  - Client-Server
+  - Peer To Peer
+
+Lecture 4 (Introduction):
+  - Network Topologies- Bus
+  - ring
+  - tree
+
+Lecture 5 (Introduction):
+  - star
+  - mesh
+  - hybrid. Communication Models-
+
+Lecture 6 (Introduction):
+  - OSI Model
+  - TCP/IP Model
+  - Design issues for layers.                                                                            (3 Hours)
+
+Lecture 7 (Physical Layer):
+  - Transmission media- Guided media
+  - unguided media. Transmission Modes- Simplex
+  - Half-Duplex and
+
+Lecture 8 (Physical Layer):
+  - Full-Duplex. Network Devices- Hub
+  - Repeater
+  - Bridge
+
+Lecture 9 (Physical Layer):
+  - Switch
+  - Router
+  - Gateways and brouter. Spread spectrum
+
+Lecture 10 (Physical Layer):
+  - signal
+  - FHSS
+  - DSSS.                                                                                                                              (3 Hours)
+
+Lecture 11 (Data Link Layer):
+  - Logical Link Layer- Services to Network Layer
+  - Framing
+  - Error Control and Flow Control. Framing in
+
+Lecture 12 (Data Link Layer):
+  - LLC- framing challenges
+  - types of framing. Error Control in LLC- error detection
+  - error correction
+
+Lecture 13 (Data Link Layer):
+  - Parity Bits
+  - Hamming Codes (11/12-bits) and CRC. Flow Control Protocols- Unrestricted Simplex
+  - Stop and Wait
+
+Lecture 14 (Data Link Layer):
+  - Sliding Window Protocol. WAN Connectivity- PPP and HDLC                                                      .(5 Hours)
+
+Lecture 15 (Medium Access Control):
+  - Channel Allocation-Static and Dynamic
+  - Multiple Access Protocols- Pure and Slotted ALOHA
+  - CSMA
+
+Lecture 16 (Medium Access Control):
+  - CSMA/CD
+  - WDMA
+  - IEEE 802.3 Standards and Frame Formats.                                                       (4 Hours)
+
+Lecture 17 (Network Layer):
+  - Switching techniques
+  - IP Protocol
+  - IPv4 and IPv6 addressing schemes
+
+Lecture 18 (Network Layer):
+  - Subnetting
+  - NAT
+  - CIDR
+
+Lecture 19 (Network Layer):
+  - ICMP
+  - Routing Protocols- Distance Vector
+  - Link State
+
+Lecture 20 (Network Layer):
+  - Routing in Internet- RIP
+  - OSPF
+  - BGP
+
+Lecture 21 (Network Layer):
+  - Congestion control and
+
+Lecture 22 (Transport Layer):
+  - Services
+  - Socket programming
+  - Addressing
+
+Lecture 23 (Transport Layer):
+  - Connection establishment
+  - Connection release
+  - Flow control and
+
+Lecture 24 (Transport Layer):
+  - buffering
+  - Multiplexing
+  - TCP and UDP
+
+Lecture 25 (Transport Layer):
+  - TCP Timer management
+  - Quality of Service (QoS)
+  - Differentiated
+
+Lecture 26 (Transport Layer):
+  - services
+  - TCP and UDP for Wireless.                                                                                                   (4 Hours)
+
+Lecture 27 (Application Layer):
+  - Domain Name System (DNS)
+  - Hyper Text Transfer Protocol (HTTP)
+  - Email: SMTP
+
+Lecture 28 (Application Layer):
+  - MIME
+  - POP3
+  - Webmail
+
+Lecture 29 (Application Layer):
+  - FTP
+  - TELNET
+  - Dynamic Host Control Protocol (DHCP)
+
+Lecture 30 (Application Layer):
+  - Simple Network Management Protocol (SNMP).
+
