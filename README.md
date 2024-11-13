@@ -10,3 +10,5 @@ This Lesson Plan Generator is a Python application designed to parse syllabus PD
 - **Natural Language Processing**: Uses NLP techniques for content extraction and structuring.
 - **Plugin System**: Allows customization and extension for subject-specific requirements.
 - **Error Handling & User Interface**: Built with user-friendly error handling and an interactive interface.
+![Screenshot 2024-11-13 194552](https://github.com/user-attachments/assets/036d8afe-07c9-4c45-ae99-3c74acd78700)
+![Screenshot 2024-11-13 194606](https://github.com/user-attachments/assets/8b0c5d7a-3a39-406d-96e8-aa9e3ce4e749)
